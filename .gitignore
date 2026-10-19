@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+*.aps
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.exe
+*.dll
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Tool output
+report.txt
